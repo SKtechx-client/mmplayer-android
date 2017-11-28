@@ -1,5 +1,10 @@
 # MusicMate Media Player Library Release Notes
 
+
+## 1.0.3 (2017.11.28)
+* getToken 호출시 강제 종료되는 버그 수정
+* setToken 호출시 자동로그인하도록 변경
+
 ## 1.0.2 (2017.11.28)
 * onTicket response 추가
 * onPlayResponse code 추가: 4014, 4015, 4033, 4043, 4045
