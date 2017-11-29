@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.sktechx</groupId>
   <artifactId>mmmediaplayer</artifactId>
-  <version>1.0.2-alpha2</version>
+  <version>1.0.2-alpha</version>
   <packaging>aar</packaging>
   <name>mmmediaplayer</name>
   <description>SK TechX Music Mate Android Media Player Library.</description>

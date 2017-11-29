@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.sktechx</groupId>
   <artifactId>musicmallweb</artifactId>
-  <version>1.0.2-alpha2</version>
+  <version>1.0.2-alpha</version>
   <packaging>aar</packaging>
   <name>musicmallweb</name>
   <description>SK TechX Music Mall Android Web Bridge Library.</description>
@@ -39,7 +39,7 @@
     <dependency>
       <groupId>com.sktechx</groupId>
       <artifactId>mmmediaplayer</artifactId>
-      <version>1.0.2-alpha2</version>
+      <version>1.0.2-alpha</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
