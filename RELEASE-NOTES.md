@@ -1,6 +1,9 @@
 # MusicMate Media Player Library Release Notes
 
 
+## 1.0.4 (2017.12.05)
+* MusicMallWebLibrary.logout 호출시 강제 종료되는 버그 수정
+
 ## 1.0.3 (2017.11.28)
 * getToken 호출시 강제 종료되는 버그 수정
 * setToken 호출시 자동로그인하도록 변경
