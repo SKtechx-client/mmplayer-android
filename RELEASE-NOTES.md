@@ -1,6 +1,19 @@
 # MusicMate Media Player Library Release Notes
 
 
+## 1.0.5 (2017.12.21)
+* MusicMate 3.4.2 변경사항 반영
+* compile 환경 변경 - Java 1.7, CompileSDK23, SupportLibrary 24.0.0
+* library 버전 변경
+  - exoplayer:r2.0.0
+  - gson:2.7
+  - glide:3.7.0
+  - retrofit:2.1.0
+  - okhttp:3.4.1
+  - okio:1.11.0
+  - converter-gson:2.1.0
+  - logging-interceptor:3.4.1
+
 ## 1.0.4 (2017.12.05)
 * MusicMallWebLibrary.logout 호출시 강제 종료되는 버그 수정
 
