@@ -1,6 +1,9 @@
 # MusicMate Media Player Library Release Notes
 
 
+## 1.0.6 (2017.12.21)
+* proguard 규칙 추가
+
 ## 1.0.5 (2017.12.21)
 * MusicMate 3.4.2 변경사항 반영
 * compile 환경 변경 - Java 1.7, CompileSDK23, SupportLibrary 24.0.0
