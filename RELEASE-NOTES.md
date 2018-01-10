@@ -1,10 +1,14 @@
 # MusicMate Media Player Library Release Notes
 
+## 1.0.8 (2017.01.10)
+* WebView를 새로 만든 경우에도 getProperty 값을 보존함
+* setPlaylist currentIndex < 0인 경우 currentMetadata 함수 오동작 수정
+* getVersion 함수 추가
 
 ## 1.0.7 (2017.01.09)
 * setProperty, getProperty 함수 추가
 * currentState, currentMetadata 함수 오동작 수정
-* setPlayList 호출시 비어있는 배열인 경우 강제 종료되는 버그 수정.
+* setPlayList 호출시 비어있는 배열인 경우 강제 종료되는 버그 수정
 
 ## 1.0.6 (2017.12.21)
 * proguard 규칙 추가
