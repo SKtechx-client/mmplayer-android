@@ -1,5 +1,10 @@
 # MusicMate Media Player Library Release Notes
 
+## 1.0.9 (2017.01.19)
+* 음원 캐시 기능 복원
+* MMMediaPlayerConfig.GlobalPlayerIntent 속성 추가
+* connecting state가 발생하지 않던 문제 수정
+
 ## 1.0.8 (2017.01.10)
 * WebView를 새로 만든 경우에도 getProperty 값을 보존함
 * setPlaylist currentIndex < 0인 경우 currentMetadata 함수 오동작 수정
