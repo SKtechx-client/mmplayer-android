@@ -1,5 +1,11 @@
 # MusicMate Media Player Library Release Notes
 
+## 1.0.10 (2017.01.26)
+* repeat -> setRepeat 함수 이름 변경
+* shuffle -> setShuffle 함수 이름 변경
+* getRepeat, getShuffle 함수 추가
+* 일시 중지 상태에서 currentMetadata 여러번 호출시 metadata 응답이 한 번만 발생하던 버그 수정.
+
 ## 1.0.9 (2017.01.19)
 * 음원 캐시 기능 복원
 * MMMediaPlayerConfig.GlobalPlayerIntent 속성 추가
