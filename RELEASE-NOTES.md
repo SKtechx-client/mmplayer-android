@@ -1,5 +1,8 @@
 # MusicMate Media Player Library Release Notes
 
+## 1.1.0 (2017.03.29)
+* MusicMate 3.6 기준으로 HTTP 헤더 형식과 API 서버 주소를 변경함.
+
 ## 1.0.13 (2017.03.05)
 * 이전곡 버튼의 곡의 처음으로 이동 기능을 재생중이 아닐 때는 동작하지 않도록 변경.
 * Global Player logo 이미지의 너비가 긴경우 작게 나오던 문제 수정.
