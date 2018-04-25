@@ -1,5 +1,9 @@
 # MusicMate Media Player Library Release Notes
 
+## 1.1.1 (2017.04.25)
+* bug-379 오류 발생시 Global Player에 재생중으로 표시되는 문제 수정.
+* session token 이상시 에러가 2번 발생하는 문제 수정.
+
 ## 1.1.0 (2017.03.29)
 * MusicMate 3.6 기준으로 HTTP 헤더 형식과 API 서버 주소를 변경함.
 
